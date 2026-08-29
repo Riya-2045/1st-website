@@ -265,11 +265,11 @@ details p {
     font-size: 16px;
   }
 
-  /* .navbar{
-    gap:
-    padding
+  .navbar {
+    gap: 5px;
+    padding: 10px;
   }
-  .nav a{
+  /* .nav a {
     font-size: 11px;
   } */
 }
