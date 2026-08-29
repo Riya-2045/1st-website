@@ -206,6 +206,7 @@ details p {
   border-radius: 20px;
   backdrop-filter: blur(5px);
   display: flex;
+  justify-content: space-around;
 }
 
 .footer p {
