@@ -241,7 +241,7 @@ details p {
   font-size: 16px;
   text-align: center;
   justify-content: center;
-  color: aliceblue;
+  color: whitesmoke;
   font-family: Arial, Helvetica, sans-serif;
   padding: 15px 20px;
   border-radius: 20px;
@@ -269,6 +269,7 @@ details p {
     gap: 5px;
     padding: 10px;
   }
+
   /* .nav a {
     font-size: 11px;
   } */
