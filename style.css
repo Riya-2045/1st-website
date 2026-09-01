@@ -57,11 +57,11 @@ nav a:hover {
 }
 
 body.home {
-  background-image: url("bg1.jpeg");
+  background-image: url("bg2.jpeg");
 }
 
 body.memories {
-  background-image: url("bg2.jpeg");
+  background-image: url("bg5.jpeg");
 }
 
 body.confession {
@@ -126,6 +126,18 @@ h3 {
 p {
   font-size: 18px;
   line-height: 1.8;
+}
+
+.under {
+  display: inline-block;
+  padding: 13px 25px;
+  margin-top: 20px;
+  background: #8d3157;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 17px;
+  transition: 0.3s;
 }
 
 hr {
