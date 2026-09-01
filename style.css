@@ -261,7 +261,7 @@ details p {
 
 @media (max-width: 600px) {
   body {
-    padding: 100px;
+    padding: 10px;
   }
 
   .card {
@@ -294,10 +294,10 @@ details p {
     font-size: 12px;
   }
 
-  .footer {
+  /* .footer {
     width: 94%;
     bottom: 10px;
     padding: 12px;
-    font-size: 12px;
-  }
+    font-size: 12px; 
+  }*/
 }
