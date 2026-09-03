@@ -86,21 +86,6 @@ body.final {
   backdrop-filter: blur(5px);
 }
 
-/* p {
-  text-align: center;
-} */
-/* body.memories {
-  min-height: 100vh;
-  height: auto;
-}
-.footer {
-  position: static;
-  width: 100%;
-  margin-top: 40px;
-   text-align: center;
- 
-} */
-
 h1 {
   text-align: center;
   color: #7a2148;
@@ -108,10 +93,6 @@ h1 {
   margin-bottom: 25px;
 }
 
-/* .text {
-  text-align: center;
-  font-size: 50px;
-} */
 h2 {
   color: #8d3157;
   margin-top: 35px;
